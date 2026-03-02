@@ -1,0 +1,4 @@
+ce fichier permet de maintenir mon repos d'apprentissage Python, 
+je m'en servirais pour prendre en main facilement l'outil git et Github.
+  Merci
+------ au travers de cette ajout, je vais montrer comment fonctionne le commit surgit-------
