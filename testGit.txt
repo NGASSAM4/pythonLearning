@@ -5,3 +5,5 @@ je m'en servirais pour prendre en main facilement l'outil git et Github.
 ici je rajoute des modifications pour ma nouvelle branch git.
 
 je rajoute cet autre  travail 1
+  je rajoute une nouvelle ligne uniquement sur la reférence située sur
+  ma branche secondaire 
